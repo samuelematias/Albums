@@ -1,25 +1,22 @@
 import { StyleSheet } from 'react-native';
 
 export default StyleSheet.create({
-	wrapperTextInformations: {
-		justifyContent: 'space-around'
-	},
-	wrapperThumbnail: {
-		justifyContent: 'center',
-		alignItems: 'center',
-		marginLeft: 10,
-		marginRight: 10
-	},
-	thumbnailStyle: {
-		width: 50,
-		height: 50
-	},
-	textInformationStyle: {
-		fontSize: 18
-	},
-	imagelStyle: {
-		height: 300,
+	buttonStyle: {
 		flex: 1,
-		width: null
+		alignSelf: 'stretch',
+		backgroundColor: '#fff',
+		borderRadius: 5,
+		borderWidth: 1,
+		borderColor: '#007aff',
+		marginLeft: 5,
+		marginRight: 5
+	},
+	buttonTextStyle: {
+		alignSelf: 'center',
+		color: '#007aff',
+		fontSize: 16,
+		fontWeight: '600',
+		paddingTop: 10,
+		paddingBottom: 10
 	}
 });
