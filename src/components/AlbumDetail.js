@@ -6,19 +6,28 @@ import styles from './styles/AlbumDetailStyles';
 
 const AlbumDetail = props => {
 	const {
-		album: { title, artist, thumbnail_image }
+		album: { title, artist, thumbnail_image, image }
 	} = props;
-	const { thumbnailStyle, wrapperInformations } = styles;
+	const {
+		thumbnailStyle,
+		wrapperTextInformations,
+		wrapperThumbnail,
+		textInformationStyle,
+		imagelStyle
+	} = styles;
 	return (
 		<Card>
 			<CardSection>
-				<View>
+				<View style={wrapperThumbnail}>
 					<Image source={{ uri: thumbnail_image }} style={thumbnailStyle} />
 				</View>
-				<View style={wrapperInformations}>
-					<Text>{title}</Text>
+				<View style={wrapperTextInformations}>
+					<Text style={textInformationStyle}>{title}</Text>
 					<Text>{artist}</Text>
 				</View>
+			</CardSection>
+			<CardSection>
+				<Image source={{ uri: image }} style={imagelStyle} />
 			</CardSection>
 		</Card>
 	);

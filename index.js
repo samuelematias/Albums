@@ -7,7 +7,7 @@ import OfflineNotice from './src/components/OfflineNotice';
 
 //components
 const App = () => (
-	<View>
+	<View style={{ flex: 1 }}>
 		<Header headerText={'Albums'} />
 		<OfflineNotice />
 		<AlbumList />
