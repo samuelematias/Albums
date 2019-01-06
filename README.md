@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://i.imgur.com/t2aQUL1.png" height="224" /><br/>
   <span><b>Albums</b></span><br/>
-  <span>Mobile Application Developed in <b>React Native :cvs-react:</b></span><br/>
+  <span>Mobile Application Developed in <b>React Native</b></span><br/>
   <span>Running on both mobile platforms, <b>Android 🤖</b> & <b>iOS 🍎</b>. </span><br/>
 </p>
 <!-- header section END -->
