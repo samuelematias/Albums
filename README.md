@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/TgIWaaDwMHNNRZd2YZ/giphy.gif" /><br/>
-  <img src="https://media.giphy.com/media/1xpCT8LlfJEsiyy5aL/giphy.gif" /><br/>
+  <img align="right" src="https://media.giphy.com/media/1xpCT8LlfJEsiyy5aL/giphy.gif" /><br/>
   <span>React Native - Albums <b>React Native</b></span><br/>
   <span>Application Developed with <b>React Native</b></span><br/>
   <span>Running on both mobile platforms, <b>Android</b> & <b>iOS</b> </span><br/>
