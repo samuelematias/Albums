@@ -5,13 +5,10 @@
 </p>
 
 <p align="center">
-<span><b>iOS</b> </span><br/>
   <img alt="DevHub Mobile - Events" height="620" src="https://media.giphy.com/media/TgIWaaDwMHNNRZd2YZ/giphy.gif" />
-  <span><b>Android</b> </span><br/>
   <img alt="DevHub Mobile - Event Filters" height="620" src="https://media.giphy.com/media/1xpCT8LlfJEsiyy5aL/giphy.gif" />
   </a>
 </p>
-
 <!-- <p align="center">
   <a href="https://devhubapp.com/" target="_blank">
   <img alt="TripPlanner - Home" height="620" src="https://i.imgur.com/GLEBsqG.png" />
