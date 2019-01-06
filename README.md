@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <img alt="DevHub Mobile - Events" height="620" src="https://media.giphy.com/media/TgIWaaDwMHNNRZd2YZ/giphy.gif" />
-  <img alt="DevHub Mobile - Event Filters" height="620" src="https://media.giphy.com/media/1xpCT8LlfJEsiyy5aL/giphy.gif" />
-  </a>
+    <img alt="DevHub Mobile - Event Filters" height="620" src="https://media.giphy.com/media/1xpCT8LlfJEsiyy5aL/giphy.gif" />
+    <img alt="DevHub Mobile - Events" height="620" src="https://media.giphy.com/media/TgIWaaDwMHNNRZd2YZ/giphy.gif" />
 </p>
 <!-- <p align="center">
   <a href="https://devhubapp.com/" target="_blank">
