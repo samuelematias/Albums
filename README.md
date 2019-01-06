@@ -1,15 +1,23 @@
+<!-- header section -->
 <p align="center">
   <img src="https://i.imgur.com/t2aQUL1.png" height="224" /><br/>
-  <span>React Native - Albums</span><br/>
-  <span>Application Developed with <b>React Native</b></span><br/>
-  <span>Running on both mobile platforms, <b>Android</b> & <b>iOS</b> </span><br/>
+  <span><b>Albums</b></span><br/>
+  <span>Mobile Application Developed in <b>React Native :cvs-react:</b></span><br/>
+  <span>Running on both mobile platforms, <b>Android 🤖</b> & <b>iOS 🍎</b>. </span><br/>
 </p>
-<p align="center">
-    <img alt="DevHub Mobile - Event Filters" height="620" src="https://media.giphy.com/media/1xpCT8LlfJEsiyy5aL/giphy.gif" />
-    <img alt="DevHub Mobile - Events" height="620" src="https://media.giphy.com/media/TgIWaaDwMHNNRZd2YZ/giphy.gif" />
-</p>
+<!-- header section END -->
 
 <br/>
+<!-- show case/gif section -->
+<p align="center">
+    <img alt="React Native App - Android.gif" height="620" src="https://media.giphy.com/media/1xpCT8LlfJEsiyy5aL/giphy.gif" />
+    <img alt="React Native App - iOS.gif" height="620" src="https://media.giphy.com/media/TgIWaaDwMHNNRZd2YZ/giphy.gif" />
+</p>
+<!-- show case/gif section END -->
+
+<br/>
+
+<!-- about app and course section -->
 
 ## About this app and the course
 
@@ -27,13 +35,17 @@ Before `react-native run-android`, dont forget do this:
 
 - On android root folder, create this file `local.properties`
 - Inside this file, add this line with your sdk patch `sdk.dir = /Users/user/your/Android/sdk/patch`
+  <!-- about app and course section END -->
 
 <br/>
+
+<!-- about me -->
 
 ## About the Dev @me
 
 Follow me on Twitter: [@samuelmataraso](https://twitter.com/samuelmataraso)
 
-<a href="https://twitter.com/samuelmataraso" target="_blank"><img src="https://twitter.com/samuelmataraso/profile_image?size=original" height="100" /></a>
+<a href="https://twitter.com/samuelmataraso" target="_blank">
+<img src="https://twitter.com/samuelmataraso/profile_image?size=original" height="100" /></a>
 
-<br/>
+<!-- about me  END -->
