@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/THYhN4tHmK8MoqkB7a/source.mp4" /><br/>
+  <img src="https://media.giphy.com/media/THYhN4tHmK8MoqkB7a/giphy.gif" /><br/>
   <span>Application Developed with <b>React Native</b></span><br/>
   <span>Running on both mobile platforms, <b>Android</b> & <b>iOS</b> </span><br/>
 </p>
