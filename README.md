@@ -3,12 +3,21 @@
   <span>Application Developed with <b>React Native</b></span><br/>
   <span>Running on both mobile platforms, <b>Android</b> & <b>iOS</b> </span><br/>
 </p>
-<p align="center">
+
+<!-- <p align="center">
 <img align="center" src="https://media.giphy.com/media/1xpCT8LlfJEsiyy5aL/giphy.gif" /><br/>
 </p>
-  
+
   <p align="center">
 <img align="center" src="https://media.giphy.com/media/TgIWaaDwMHNNRZd2YZ/giphy.gif" /><br/>
+</p> -->
+
+<p align="center">
+  <a href="https://devhubapp.com/" target="_blank">
+  <img alt="DevHub Mobile - Events" height="620" src=src="https://media.giphy.com/media/TgIWaaDwMHNNRZd2YZ/giphy.gif" />
+  <img alt="DevHub Mobile - Event Filters" height="620" src="https://media.giphy.com/media/1xpCT8LlfJEsiyy5aL/giphy.gif" />
+  <!-- <img alt="DevHub Mobile - Notification Filters" height="620" src="https://user-images.githubusercontent.com/619186/49802012-ebbca100-fd32-11e8-8740-54ac8741edec.PNG" /> -->
+  </a>
 </p>
 <!-- <p align="center">
   <a href="https://devhubapp.com/" target="_blank">
