@@ -1,3 +1,5 @@
+# React Native - Albums
+
 <p align="center">
   <span>React Native - Albums</span><br/>
   <span>Application Developed with <b>React Native</b></span><br/>
