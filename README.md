@@ -4,10 +4,12 @@
   <span>Running on both mobile platforms, <b>Android</b> & <b>iOS</b> </span><br/>
 </p>
 <p align="center">
-<img align="right" src="https://media.giphy.com/media/TgIWaaDwMHNNRZd2YZ/giphy.gif" /><br/>
 <img align="right" src="https://media.giphy.com/media/1xpCT8LlfJEsiyy5aL/giphy.gif" /><br/>
 </p>
   
+  <p align="center">
+<img align="right" src="https://media.giphy.com/media/TgIWaaDwMHNNRZd2YZ/giphy.gif" /><br/>
+</p>
 <!-- <p align="center">
   <a href="https://devhubapp.com/" target="_blank">
   <img alt="TripPlanner - Home" height="620" src="https://i.imgur.com/GLEBsqG.png" />
