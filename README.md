@@ -1,10 +1,10 @@
 <p align="center">
-  <img align="right" src="https://media.giphy.com/media/TgIWaaDwMHNNRZd2YZ/giphy.gif" /><br/>
-  <img align="right" src="https://media.giphy.com/media/1xpCT8LlfJEsiyy5aL/giphy.gif" /><br/>
   <span>React Native - Albums <b>React Native</b></span><br/>
   <span>Application Developed with <b>React Native</b></span><br/>
   <span>Running on both mobile platforms, <b>Android</b> & <b>iOS</b> </span><br/>
 </p>
+<img align="right" src="https://media.giphy.com/media/TgIWaaDwMHNNRZd2YZ/giphy.gif" /><br/>
+<img align="right" src="https://media.giphy.com/media/1xpCT8LlfJEsiyy5aL/giphy.gif" /><br/>
   
 <!-- <p align="center">
   <a href="https://devhubapp.com/" target="_blank">
