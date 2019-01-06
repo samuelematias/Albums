@@ -1,11 +1,9 @@
-# React Native - Albums
-
 <p align="center">
+  <img src="https://i.imgur.com/t2aQUL1.png" height="224" /><br/>
   <span>React Native - Albums</span><br/>
   <span>Application Developed with <b>React Native</b></span><br/>
   <span>Running on both mobile platforms, <b>Android</b> & <b>iOS</b> </span><br/>
 </p>
-
 <p align="center">
     <img alt="DevHub Mobile - Event Filters" height="620" src="https://media.giphy.com/media/1xpCT8LlfJEsiyy5aL/giphy.gif" />
     <img alt="DevHub Mobile - Events" height="620" src="https://media.giphy.com/media/TgIWaaDwMHNNRZd2YZ/giphy.gif" />
