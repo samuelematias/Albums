@@ -4,10 +4,8 @@
   <span>Running on both mobile platforms, <b>Android</b> & <b>iOS</b> </span><br/>
 </p>
 
-<p align="center">
-  <img align="right" alt="DevHub Mobile - Events" height="620" src=src="https://media.giphy.com/media/TgIWaaDwMHNNRZd2YZ/giphy.gif" />
-  <img align="left" alt="DevHub Mobile - Event Filters" height="620" src="https://media.giphy.com/media/1xpCT8LlfJEsiyy5aL/giphy.gif" />
-</p>
+<img align="right" height="620" src=src="https://media.giphy.com/media/TgIWaaDwMHNNRZd2YZ/giphy.gif" />
+<img align="left"  height="620" src="https://media.giphy.com/media/1xpCT8LlfJEsiyy5aL/giphy.gif" />
 
 <!-- <p align="center">
   <a href="https://devhubapp.com/" target="_blank">
