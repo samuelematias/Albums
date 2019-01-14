@@ -22,6 +22,17 @@
 ## About this app and the course
 
 This app was developed on the Udemy Course [The Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course/) by [Stephen Grider](https://www.udemy.com/user/sgslo/).
+
+<br/>
+
+## Tech Stack
+
+- [React Native](https://github.com/facebook/react-native)
+
+## Used libraries
+
+- [axios](https://github.com/axios/axios)
+
 <br/>
 
 ### Running it locally
